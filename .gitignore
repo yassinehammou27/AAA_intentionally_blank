@@ -136,5 +136,8 @@ prep_data/
 *.json
 *.geojson
 *.csv
+*.zip
+
+.ipynb_checkpoints/
 
 .DS_Store
