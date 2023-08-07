@@ -137,6 +137,8 @@ prep_data/
 *.geojson
 *.csv
 *.zip
+04_predictive_analytics_data/
+01_prep/
 
 .ipynb_checkpoints/
 
