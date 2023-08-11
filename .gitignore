@@ -107,6 +107,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+myenv/
 env/
 venv/
 ENV/
@@ -143,3 +144,5 @@ prep_data/
 .ipynb_checkpoints/
 
 .DS_Store
+
+*.png
