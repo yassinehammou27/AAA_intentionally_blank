@@ -107,6 +107,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+myenv/
 env/
 venv/
 ENV/
@@ -130,3 +131,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+prep_data/
+*.json
+*.geojson
+*.csv
+*.zip
+04_predictive_analytics_data/
+01_prep/
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+*.png
