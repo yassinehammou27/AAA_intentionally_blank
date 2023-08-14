@@ -1,6 +1,6 @@
 data/
 *original_taxi_data.csv
-
+iframe_figures/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,6 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+TODO.txt
 
 # data
 prep_data/
