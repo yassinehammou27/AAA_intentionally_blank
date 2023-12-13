@@ -1,4 +1,6 @@
-# Analytics Project including
+# Analytics Project
+
+Includes the following:
 - Geoanalytics
 - Clustering
 - Support vector machine
